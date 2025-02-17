@@ -17,41 +17,41 @@
 
 - Bajamos un poco pinchamos en Download Docker Desktop y lo descargamos para Windows.
 
-![image.png](image.png)
+![image.png](./imagenes/image.png)
 
-![image.png](image%201.png)
+![image.png](./imagenes/image 1.png)
 
 Una vez descargado, pinchamos en el instalador y comenzamos con la descarga:
 
-![image.png](image%202.png)
+![image.png](./imagenes/image 2.png)
 
-![Captura de pantalla 2025-02-14 105846.png](Captura_de_pantalla_2025-02-14_105846.png)
+![Captura de pantalla 2025-02-14 105846.png](./imagenes/Captura_de_pantalla_2025-02-14_105846.png)
 
 Una vez realizada la instalación, accedemos a Docker Desktop:
 
 Nada mas entrar nos pedirá iniciar sesión o registrarnos:
 
-![image.png](image%203.png)
+![image.png](./imagenes/image 3.png)
 
 Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades: 
 
-![image.png](image%204.png)
+![image.png](./imagenes/image 4.png)
 
 ### 🖥️ Navegación por la interfaz principal
 
-![image.png](image%205.png)
+![image.png](./imagenes/image 5.png)
 
-![image.png](image%206.png)
+![image.png](./imagenes/image 6.png)
 
-![image.png](image%207.png)
+![image.png](./imagenes/image 7.png)
 
-![image.png](image%208.png)
+![image.png](./imagenes/image 8.png)
 
-![image.png](image%209.png)
+![image.png](./imagenes/image 9.png)
 
-![image.png](image%2010.png)
+![image.png](./imagenes/image 10.png)
 
-![image.png](image%2011.png)
+![image.png](./imagenes/image 11.png)
 
 ### 📦 Operaciones básicas con contenedores
 
@@ -61,7 +61,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - En la barra lateral izquierda, seleccionamos **Containers**.
 - Se muestra una lista con los contenedores creados, indicando su estado (corriendo, detenido, etc.).
 
-![image.png](image%2012.png)
+![image.png](./imagenes/image 12.png)
 
 ***Iniciar un Contenedor Detenido***
 
@@ -69,9 +69,9 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Si el estado es "Exited", hacemos clic en los tres puntos **(⋮)** a la derecha del contenedor.
 - Seleccionamos Restart para reiniciarlo.
 
-![image.png](image%2013.png)
+![image.png](./imagenes/image%2013.png)
 
-![image.png](image%2014.png)
+![image.png](./imagenes/image%2014.png)
 
 ***Detener un Contenedor en Ejecución***
 
@@ -79,7 +79,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Le damos a los tres puntos **(⋮)**.
 - Selecciona **Pause** o **Stop** según sea necesario.
 
-![image.png](image%2015.png)
+![image.png](./imagenes/image 15.png)
 
 ***Eliminar un Contenedor***
 
@@ -87,7 +87,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Hacemos clic en los tres puntos **(⋮)** a la derecha del contenedor.
 - Seleccionamos el icono de **Eliminar** para eliminarlo.
 
-![image.png](image%2016.png)
+![image.png](./imagenes/image 16.png)
 
 ***Ver Detalles de un Contenedor***
 
@@ -95,29 +95,29 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Seleccionamos view details.
 - Al entrar, podemos ver información como logs, configuración y estadísticas de uso.
 
-![image.png](image%2017.png)
+![image.png](./imagenes/image 17.png)
 
-![image.png](image%2018.png)
+![image.png](./imagenes/image 18.png)
 
-![image.png](image%2019.png)
+![image.png](./imagenes/image 19.png)
 
 ***Copiar el Comando de Ejecución de un Contenedor***
 
 - Hacemos clic en los tres puntos **(⋮)** junto al contenedor.
 - Seleccionamos **Copy docker run** para copiar el comando con el que fue creado.
 
-![image.png](image%2020.png)
+![image.png](./imagenes/image 20.png)
 
-![image.png](image%2021.png)
+![image.png](./imagenes/image 21.png)
 
 ***Ver Archivos de un Contenedor***
 
 - Hacemos clic en los tres puntos **(⋮)**.
 - Seleccionamos **View files** para explorar los archivos dentro del contenedor.
 
-![image.png](image%2022.png)
+![image.png](./imagenes/image 22.png)
 
-![image.png](image%2023.png)
+![image.png](./imagenes/image 23.png)
 
 ## 🏷️ Gestión de imágenes Docker
 
@@ -126,7 +126,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - En la barra lateral izquierda, seleccionamos **Images**.
 - Se nos muestra la lista de imágenes descargadas en el sistema.
 
-![image.png](image%2024.png)
+![image.png](./imagenes/image 24.png)
 
 ***Descargar una Imagen desde Docker Hub***
 
@@ -146,7 +146,7 @@ $nginx:latest
 
 - Haz clic en **Pull** para descargar la imagen.
 
-![image.png](image%2025.png)
+![image.png](./imagenes/image 25.png)
 
 ***Eliminar una Imagen***
 
@@ -154,17 +154,17 @@ $nginx:latest
 2. Hacemos clic en el icono de los tres puntos **(⋮)** a la derecha.
 3. Seleccionamos **Delete** para eliminar la imagen.
 
-![image.png](image%2026.png)
+![image.png](./imagenes/image 26.png)
 
 No se pueden eliminar imágenes que están en uso por un contenedor en ejecución:
 
-![image.png](image%2027.png)
+![image.png](./imagenes/image 27.png)
 
 ***Crear una Imagen Personalizada***
 
 - Escribimos un **Dockerfile** con la configuración de la imagen.
 - Usamos el siguiente comando en la terminal:
-    
+  
     ```bash
     $docker build -t mi-imagen .
     ```
@@ -177,9 +177,9 @@ No se pueden eliminar imágenes que están en uso por un contenedor en ejecució
 - Hacemos clic en **Run**.
 - Configuramos los puertos y volúmenes si es necesario y hacemos clic en Run.
 
-![image.png](image%2028.png)
+![image.png](./imagenes/image 28.png)
 
-![image.png](image%2029.png)
+![image.png](./imagenes/image 29.png)
 
 ### 🔌 Configuración de redes y volúmenes
 
@@ -189,9 +189,9 @@ No se pueden eliminar imágenes que están en uso por un contenedor en ejecució
 - Hacemos clic en un contenedor existente y seleccionamos **View details**.
 - En la pestaña **Network**, vemos las redes asociadas al contenedor.
 
-![image.png](image%2030.png)
+![image.png](./imagenes/image 30.png)
 
-![image.png](image%2031.png)
+![image.png](./imagenes/image 31.png)
 
 ***Crear una Nueva Red***
 
@@ -201,9 +201,9 @@ Docker Desktop no ofrece una opción nativa para añadir redes directamente desd
 - En el Marketplace de Extensiones, buscamos **Portainer**.
 - Hacemos clic en **Install** para añadir la extensión.
 
-![image.png](image%2032.png)
+![image.png](./imagenes/image 32.png)
 
-![image.png](image%2033.png)
+![image.png](./imagenes/image 33.png)
 
 - Configuramos el entorno
 
@@ -211,11 +211,11 @@ Al iniciar Portainer por primera vez, verás la pantalla de "Quick Setup" (como 
 
 - **"Get Started"**: Gestionamos el entorno local de Docker donde se ejecuta Portainer.
 
-![image.png](image%2034.png)
+![image.png](./imagenes/image 34.png)
 
 - **"Add Environments"**: Agregamos otros entornos remotos, como clústeres de Kubernetes o instancias Docker en servidores.
 
-![image.png](image%2035.png)
+![image.png](./imagenes/image 35.png)
 
 - Administramos contenedores
 
@@ -233,21 +233,21 @@ Desde el panel de control de Portainer, puedes:
 - Muestra cuánto espacio ocupan las imágenes, contenedores y volúmenes.
 - Ideal si Docker usa demasiado espacio en disco.
 
-![image.png](image%2036.png)
+![image.png](./imagenes/image 36.png)
 
 - Una vez instalada, vamos a **"Extensions" > "Disk Usage"**.
 - Revisamos el uso de espacio y liberamos lo que no necesitemos.
 
-![image.png](image%2037.png)
+![image.png](./imagenes/image 37.png)
 
 ### **Logs Explorer (Explorador de Logs)**
 
 - Permite ver los logs de todos los contenedores sin usar la terminal.
 - Muy útil para detectar errores sin ejecutar `docker logs`.
 
-![image.png](image%2038.png)
+![image.png](./imagenes/image 38.png)
 
 - Vamos a **"Extensions" > "Logs Explorer"**.
 - Seleccionamos el contenedor que queremos analizar y revisamos los logs en la interfaz.
 
-![image.png](image%2039.png)
+![image.png](./imagenes/image%2039.png)
