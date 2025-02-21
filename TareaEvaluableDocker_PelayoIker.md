@@ -109,7 +109,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 
 ### 🖥️ Navegación por la interfaz principal
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 5.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%205.png)
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%206.png)
 
@@ -271,7 +271,7 @@ Docker Desktop no ofrece una opción nativa para añadir redes directamente desd
 - En el Marketplace de Extensiones, buscamos **Portainer**.
 - Hacemos clic en **Install** para añadir la extensión.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 32.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2032.png)
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2033.png)
 
@@ -564,7 +564,7 @@ $docker run -d --name adminer-container \
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2072.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 73.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2073.png)
 
 ### 💻 Acceder a la base de datos desde la interfaz gráfica
 
