@@ -89,11 +89,11 @@ Este repositorio contiene la resolución de la **Tarea Evaluable Docker**, organ
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 1.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%201.png)
 
 Una vez descargado, pinchamos en el instalador y comenzamos con la descarga:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 2.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%202.png)
 
 ![Captura de pantalla 2025-02-14 105846.png](./TareaEvaluableDocker_PelayoIker.assets/Captura_de_pantalla_2025-02-14_105846.png)
 
@@ -101,27 +101,27 @@ Una vez realizada la instalación, accedemos a Docker Desktop:
 
 Nada mas entrar nos pedirá iniciar sesión o registrarnos:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 3.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%203.png)
 
 Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades: 
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 4.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%204.png)
 
 ### 🖥️ Navegación por la interfaz principal
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 5.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 6.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%206.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 7.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%207.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 8.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%208.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 9.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%209.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 10.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2010.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 11.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2011.png)
 
 ### 📦 Operaciones básicas con contenedores
 
@@ -131,7 +131,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - En la barra lateral izquierda, seleccionamos **Containers**.
 - Se muestra una lista con los contenedores creados, indicando su estado (corriendo, detenido, etc.).
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 12.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2012.png)
 
 ***Iniciar un Contenedor Detenido***
 
@@ -139,9 +139,9 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Si el estado es "Exited", hacemos clic en los tres puntos **(⋮)** a la derecha del contenedor.
 - Seleccionamos Restart para reiniciarlo.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 13.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2013.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 14.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2014.png)
 
 ***Detener un Contenedor en Ejecución***
 
@@ -149,7 +149,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Le damos a los tres puntos **(⋮)**.
 - Selecciona **Pause** o **Stop** según sea necesario.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 15.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2015.png)
 
 ***Eliminar un Contenedor***
 
@@ -157,7 +157,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Hacemos clic en los tres puntos **(⋮)** a la derecha del contenedor.
 - Seleccionamos el icono de **Eliminar** para eliminarlo.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 16.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2016.png)
 
 ***Ver Detalles de un Contenedor***
 
@@ -165,29 +165,29 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - Seleccionamos view details.
 - Al entrar, podemos ver información como logs, configuración y estadísticas de uso.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 17.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2017.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 18.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2018.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 19.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2019.png)
 
 ***Copiar el Comando de Ejecución de un Contenedor***
 
 - Hacemos clic en los tres puntos **(⋮)** junto al contenedor.
 - Seleccionamos **Copy docker run** para copiar el comando con el que fue creado.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 20.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2020.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 21.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2021.png)
 
 ***Ver Archivos de un Contenedor***
 
 - Hacemos clic en los tres puntos **(⋮)**.
 - Seleccionamos **View files** para explorar los archivos dentro del contenedor.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 22.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2022.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 23.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2023.png)
 
 ## 🏷️ Gestión de imágenes Docker
 
@@ -196,7 +196,7 @@ Una vez hecho, ya accedemos a Docker Desktop y a todas sus funcionalidades:
 - En la barra lateral izquierda, seleccionamos **Images**.
 - Se nos muestra la lista de imágenes descargadas en el sistema.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 24.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2024.png)
 
 ***Descargar una Imagen desde Docker Hub***
 
@@ -216,7 +216,7 @@ $nginx:latest
 
 - Haz clic en **Pull** para descargar la imagen.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 25.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2025.png)
 
 ***Eliminar una Imagen***
 
@@ -224,11 +224,11 @@ $nginx:latest
 2. Hacemos clic en el icono de los tres puntos **(⋮)** a la derecha.
 3. Seleccionamos **Delete** para eliminar la imagen.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 26.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2026.png)
 
 No se pueden eliminar imágenes que están en uso por un contenedor en ejecución:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 27.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2027.png)
 
 ***Crear una Imagen Personalizada***
 
@@ -247,9 +247,9 @@ No se pueden eliminar imágenes que están en uso por un contenedor en ejecució
 - Hacemos clic en **Run**.
 - Configuramos los puertos y volúmenes si es necesario y hacemos clic en Run.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 28.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2028.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 29.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2029.png)
 
 ### 🔌 Configuración de redes y volúmenes
 
@@ -259,9 +259,9 @@ No se pueden eliminar imágenes que están en uso por un contenedor en ejecució
 - Hacemos clic en un contenedor existente y seleccionamos **View details**.
 - En la pestaña **Network**, vemos las redes asociadas al contenedor.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 30.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2030.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 31.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2031.png)
 
 ***Crear una Nueva Red***
 
@@ -273,7 +273,7 @@ Docker Desktop no ofrece una opción nativa para añadir redes directamente desd
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 32.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 33.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2033.png)
 
 - Configuramos el entorno
 
@@ -281,11 +281,11 @@ Al iniciar Portainer por primera vez, verás la pantalla de "Quick Setup" (como 
 
 - **"Get Started"**: Gestionamos el entorno local de Docker donde se ejecuta Portainer.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 34.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2034.png)
 
 - **"Add Environments"**: Agregamos otros entornos remotos, como clústeres de Kubernetes o instancias Docker en servidores.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 35.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2035.png)
 
 - Administramos contenedores
 
@@ -303,24 +303,24 @@ Desde el panel de control de Portainer, puedes:
 - Muestra cuánto espacio ocupan las imágenes, contenedores y volúmenes.
 - Ideal si Docker usa demasiado espacio en disco.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 36.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2036.png)
 
 - Una vez instalada, vamos a **"Extensions" > "Disk Usage"**.
 - Revisamos el uso de espacio y liberamos lo que no necesitemos.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 37.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2037.png)
 
 ### **Logs Explorer (Explorador de Logs)**
 
 - Permite ver los logs de todos los contenedores sin usar la terminal.
 - Muy útil para detectar errores sin ejecutar `docker logs`.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 38.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2038.png)
 
 - Vamos a **"Extensions" > "Logs Explorer"**.
 - Seleccionamos el contenedor que queremos analizar y revisamos los logs en la interfaz.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 39.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2039.png)
 
 ### 🛢️ Ejercicio 2: Servidor de Base de Datos
 
@@ -331,20 +331,20 @@ Desde el panel de control de Portainer, puedes:
 - En la barra de búsqueda, escribimos **"mariadb🦭"**.
 - Aparecen varias opciones relacionadas con MariaDB, selccionamos la primera.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 40.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2040.png)
 
 - Identificamos la imagen correcta con el nombre **"mariadb🦭"** y el ícono oficial.
 - Verificamos que tiene **más de 1B+ descargas** y **5.9K estrellas** (esto confirma que es la imagen más utilizada y confiable).
 - Hacemos clic en la imagen para seleccionarla.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 41.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2041.png)
 
 ***Verificación que la imagen se descargó correctamente***
 
 - Vamos nuevamente a la pestaña "Images".
 - Ahora, la imagen de MariaDB nos aparece en la lista de imágenes disponibles en tu sistema.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 42.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2042.png)
 
 ***Crear un contenedor con MariaDB***
 
@@ -363,11 +363,11 @@ Desde el panel de control de Portainer, puedes:
         - `MYSQL_PASSWORD=daw`
 - Guardamos y le damos a Run.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 43.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2043.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 44.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2044.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 45.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2045.png)
 
 ***Conectarse a la base de datos con DBeaver***
 
@@ -382,13 +382,13 @@ Desde el panel de control de Portainer, puedes:
     - Base de datos:
         - **Base de datos**: `base`
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 46.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2046.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 47.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2047.png)
 
 ***Probamos la conexión y nos aseguramos de que funciona.***
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 48.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2048.png)
 
  ***Crear una nueva base de datos***
 
@@ -399,11 +399,11 @@ Desde el panel de control de Portainer, puedes:
 - Opcionalmente, podiamos configurar **Collation**, pero en este caso lo dejarlo vacío para la opción por defecto.
 - Hacemos clic en **"Aceptar"** para crear la base de datos.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 49.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2049.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 50.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2050.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 51.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2051.png)
 
 ***Seleccionamos la base de datos y crear una tabla***
 
@@ -415,16 +415,16 @@ Desde el panel de control de Portainer, puedes:
     - `nombre` → **VARCHAR(50)**, lo marcamos como **NOT NULL**.
 - Guardamos los cambios y presionamos en **"Aceptar"**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 52.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2052.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 53.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2053.png)
 
 ***Verificamos que la tabla se creo correctamente***
 
 - Expandimos la base de datos `dbPelayoIker` en el panel izquierdo y hacemos clic en **"Tables"**.
 - Vemos la tabla `ejemplo`, con lo cual se ha creado correctamente.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 54.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2054.png)
 
 ***Detener y eliminar los contenedores***
 
@@ -433,7 +433,7 @@ Desde el panel de control de Portainer, puedes:
 - Detenemos cada contenedor presionando el botón **Stop (🟥)**.
 - Luego, eliminamos los contenedores con el botón **Delete (🗑️)**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 55.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2055.png)
 
 ***Verificamos que el volumen "datos-mariadb" sigue existiendo***
 
@@ -441,7 +441,7 @@ Desde el panel de control de Portainer, puedes:
 - Buscamos el volumen `datos-mariadb`.
 - Como se ve el volumen sigue ahi, lo que significa que los datos no se han perdido.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 56.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2056.png)
 
 ***Creamos otro contenedor con el mismo volumen***
 
@@ -459,7 +459,7 @@ Desde el panel de control de Portainer, puedes:
         - `MARIADB_PASSWORD=daw`
 - Hacemos clic en **Run**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 57.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2057.png)
 
 ***Comprobamos que los datos siguen en el nuevo contenedor***
 
@@ -467,7 +467,7 @@ Desde el panel de control de Portainer, puedes:
 - Verificamos que `dbPelayoIker` y la tabla `ejemplo` siguen existiendo.
 - Como todo está correcto, los datos se han conservado gracias al volumen persistente.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 58.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2058.png)
 
 ***Intentar borrar la imagen de MariaDB***
 
@@ -477,23 +477,23 @@ Desde el panel de control de Portainer, puedes:
     - No podremos eliminar si hay contenedores en ejecución usándola (`bbdd-2`).
     - Tenemos que eliminar `bbdd-2` antes de poder borrar la imagen.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 59.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2059.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 60.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2060.png)
 
 ***Borrar todo (Volumen, Imagen y Contenedor)***
 
 - Eliminamos los contenedor **`bbdd`** y **`bbdd-2`** desde Docker Desktop.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 61.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2061.png)
 
 - Eliminamos el volumen **`datos-mariadb`** desde la pestaña **Volumes**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 62.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2062.png)
 
 - Eliminamos la imagen de MariaDB desde la pestaña **Images**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 63.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2063.png)
 
 ### 🌐 Ejercicio 3: Contenedores en Red
 
@@ -509,9 +509,9 @@ Primero listamos las redes, luego, creamos la red bridge pedida y por ultimo vem
  $docker network inspect redbd
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 64.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2064.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 65.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2065.png)
 
 ### 🐬 Crear el contenedor de MariaDB con comandos
 
@@ -529,19 +529,19 @@ $docker run -d --name mariadb-container \
   mariadb:latest
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 66.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2066.png)
 
 ### 🐬 Crear el contenedor de MariaDB con Docker Desktop
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 67.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2067.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 68.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2068.png)
 
 Podemos ver en los logs que el contenedor de MariaDB se ha iniciado correctamente. El sistema nos muestra una secuencia de mensajes de inicialización que confirman que la base de datos está lista para aceptar conexiones y que todos los componentes necesarios se han cargado correctamente.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 69.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2069.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 70.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2070.png)
 
 ### 🌐 Crear el contenedor con Adminer o phpMyAdmin con comandos
 
@@ -552,7 +552,7 @@ $docker run -d --name adminer-container \
   adminer
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 71.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2071.png)
 
 ### 🌐 Crear el contenedor con Adminer o phpMyAdmin con Docker Desktop
 
@@ -562,7 +562,7 @@ $docker run -d --name adminer-container \
     - Host Port: `8080`.
 - Hacemos clic en **"Run"**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 72.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2072.png)
 
 ![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 73.png)
 
@@ -570,7 +570,7 @@ $docker run -d --name adminer-container \
 
 Abrimos el navegador y vamos a `http://localhost:8080`.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 74.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2074.png)
 
 - Rellenamos los datos de conexión:
     - **Servidor**: `mariadb-container` (nombre del contenedor).
@@ -579,9 +579,9 @@ Abrimos el navegador y vamos a `http://localhost:8080`.
     - **Base de datos**: `base`.
 - Hacemos clic en **"Login"**.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 75.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2075.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 76.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2076.png)
 
 ***Crear una Tabla en la Base de Datos***
 
@@ -595,9 +595,9 @@ Abrimos el navegador y vamos a `http://localhost:8080`.
     | nombre | VARCHAR(50) | ❌ |
 - Guardamos los cambios.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 77.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2077.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 78.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2078.png)
 
 ### 🧹 Borrar los contenedores, la red y los volúmenes utilizados con comandos
 
@@ -608,21 +608,21 @@ $docker network rm my_network
 $docker volume prune -f
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 79.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2079.png)
 
 ### 🧹 Borrar los contenedores, la red y los volúmenes utilizados con Docker Desktop
 
 Primero paramos los contenedores, haciendo click en Stop.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 80.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2080.png)
 
 Y luego los borramos:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 81.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2081.png)
 
 Una vez borrados podemos borrar sus imagenes:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 82.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2082.png)
 
 ### 🏗️ Ejercicio 4: Docker Compose
 
@@ -635,7 +635,7 @@ $mkdir htop-docker && cd htop-docker
 $notepad docker-compose.yaml
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 83.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2083.png)
 
 Pegamos el siguiente contenido en el archivo y luego lo guardamos y cerramos el bloc de notas:
 
@@ -654,11 +654,11 @@ services:
 - Abrimos el **Explorador de archivos**.
 - Creamos una carpeta llamada **htop-docker** en la misma ubicacion que lo estabamos haciendo con los comandos.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 84.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2084.png)
 
 Abrimos **Visual Studio Code**, **Bloc de notas**, o cualquier editor de texto y escribimos:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 85.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2085.png)
 
 ***Iniciar el contenedor con Docker Compose***
 Ejecutamos el siguiente comando para iniciar **htop** en un contenedor y verificamos que el contenedor está corriendo:
@@ -668,23 +668,23 @@ $docker-compose up -d
 $docker ps
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 86.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2086.png)
 
 ```bash
 $docker exec -it htop_container htop
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 87.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2087.png)
 
 ***Detener y eliminar el contenedor***
 
 Primero, paramos la imagen y la borramos:
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 88.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2088.png)
 
 Y luego una vez paradas/borradas podemos borrar el conte
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 89.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2089.png)
 
 ### 🏗️ Ejercicio 5: Imagen con Dockerfile - Aplicación Web
 
@@ -698,7 +698,7 @@ $mkdir -p web_desplieguePelayoIker
 $cd web_desplieguePelayoIker
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 90.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2090.png)
 
 Descargamos la imagen base y creamos una carpeta para los archivos del sitio web sin comandos:
 
@@ -708,15 +708,15 @@ Descargamos la imagen base y creamos una carpeta para los archivos del sitio web
 
 ![Captura de pantalla 2025-02-13 182336.png](./TareaEvaluableDocker_PelayoIker.assets/Captura_de_pantalla_2025-02-13_182336.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 91.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2091.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 92.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2092.png)
 
 Una vez creada la carpeta, creamos los archivos del sitio.
 
 Abrimos VS Code y creamos los archivos index.html  ,  styles.css  y  info.php.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 93.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2093.png)
 
 📄 **Archivo `index.html`**
 
@@ -738,7 +738,7 @@ Abrimos VS Code y creamos los archivos index.html  ,  styles.css  y  info.php.
 
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 94.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2094.png)
 
 🎨 **Archivo `styles.css`**
 
@@ -787,7 +787,7 @@ p {
 }
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 95.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2095.png)
 
 🖥 **Archivo `info.php`**
 
@@ -805,7 +805,7 @@ echo "<p>Hora: $hora_actual</p>";
 ?>
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 96.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2096.png)
 
 Ahora arrancamos el contenedor al que llamamos web y que sea accesible desde un navegador en el puerto 8000.
 
@@ -820,7 +820,7 @@ Con comados :
 $docker run -d --name web -p 8000:80 -v C:\Users\usuario\Documents\web_desplieguePelayoIker:/var/www/html php:7.4-apache 
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 97.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2097.png)
 
 Desde docker desktop:
 
@@ -831,20 +831,20 @@ Desde docker desktop:
     - En Volumes: **Host Path"**, seleccionamos la carpeta donde guardamos nuestro sitio web(web_desplieguePelayoIker) y en Container Path(/var/www/html).
 - Por último pinchamos en Run, para arrancar el contenedor.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 98.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2098.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 99.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%2099.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 100.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20100.png)
 
 Vemos la salida del script y de la página index en el navegador:
 
 - Abrimos el navegador y entramos a [http://localhost:8000](http://localhost:8000/).
 - Para ver el info PHP, pinchamos en aquí o metemos este enlace [http://localhost:8000/info.php](http://localhost:8000/info.php).
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 101.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20101.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 102.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20102.png)
 
 ***Detenemos y eliminamos el contenedor con comandos***
 
@@ -853,7 +853,7 @@ $docker stop web
 $docker rm web
 ```
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 103.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20103.png)
 
 ***Detenemos y eliminamos el contenedor desde Docker Desktop***
 
@@ -862,29 +862,29 @@ $docker rm web
 ***Automatización de estas operaciones creando un fichero Dockerfile***
 Creamos un `Dockerfile` en desde VS Code para construir la imagen automáticamente.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 104.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20104.png)
 
 ***Construcción de la imagen***
 
 - Ejecutamos el siguiente comando en la carpeta donde está el `Dockerfile.`
 - Verificamos la nueva imagen.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 105.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20105.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 106.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20106.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 107.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20107.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 108.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20108.png)
 
 ***Subimos la imagen a Docker Hub***
 
 - Nos dirigimos a **“Images”** y buscamos la imagen que subimos.
 - Para subirla a Docker Hub, hacemos clic en el icono de los tres puntos **(⋮)** y seleccionamos Push to Docker Hub.
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 109.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20109.png)
 
-![image.png](./TareaEvaluableDocker_PelayoIker.assets/image 110.png)
+![image.png](./TareaEvaluableDocker_PelayoIker.assets/image%20110.png)
 
 ***Desplegar la imagen en otro equipo***
 
